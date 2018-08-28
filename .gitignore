@@ -1,0 +1,11 @@
+#-------------#
+# Maven Files #
+#-------------#
+target
+
+#---------------------------#
+# Anypoint Studio / Eclipse #
+#---------------------------#
+.classpath
+.project
+.settings
